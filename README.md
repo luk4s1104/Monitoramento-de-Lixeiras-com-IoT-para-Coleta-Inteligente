@@ -1,0 +1,1 @@
+# Monitoramento-de-Lixeiras-com-IoT-para-Coleta-Inteligente
