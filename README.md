@@ -62,5 +62,5 @@ O fluxo de dados do projeto é dividido em três etapas principais:
 ## 🎓 Instituição
 
 **Centro Universitário Facens** – Sorocaba/SP  
-Disciplina: **UPX 1 – Usina de Projetos Experimentais** (`[1°Semestre de 2026]`)  
+Disciplina: **UPX 1 – Usina de Projetos Experimentais** `[1°Semestre de 2026]`
 Orientadores: `[Isaias Goldshimdt / Marcelo Aguiar]`
